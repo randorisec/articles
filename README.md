@@ -20,4 +20,4 @@ Vous pouvez retrouver ici quelques uns des articles. Pour ceux dont nous ne pouv
 
 -[Ramonage de vulns avec mona.py](https://github.com/randorisec/articles/tree/master/MISC79_Mona) - le [pdf](https://github.com/randorisec/articles/blob/master/MISC79_Mona/MISC79-Ramonage_de_vulns_avec_Mona.py-Davy_Douhine.pdf)
 
--[Contribuer à Metasploit: Guide du débutant](#Metasploit) - le [pdf](https://github.com/randorisec/articles/blob/master/MISC76_Metasploit/MISC76-Contribuer_a_Metasploit-Guide_du_debutant-Davy_Douhine.pdf)
+-[Contribuer à Metasploit: Guide du débutant](https://github.com/randorisec/articles/tree/master/MISC76_Metasploit) - le [pdf](https://github.com/randorisec/articles/blob/master/MISC76_Metasploit/MISC76-Contribuer_a_Metasploit-Guide_du_debutant-Davy_Douhine.pdf)
