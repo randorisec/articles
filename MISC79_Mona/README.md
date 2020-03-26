@@ -39,10 +39,10 @@ Merci à Alexandre, André (@andremoulu), Fred (@FredzyPadzy), Inti (@SalasRosse
 [13] https://www.corelan.be/index.php/2010/06/16/exploit-writing-tutorial-part-10-chaining-dep-with-rop-the-rubikstm-cube/
 
 ### L'exploit iftp.py (chapitre 4.3)
-Dispo [ici](https://github.com/randorisec/articles/blob/master/MISC79/iftp.py)
+Dispo [ici](https://github.com/randorisec/articles/blob/master/MISC79_Mona/iftp.py)
 
 ### L'exploit easy.py (chapitre 4.4)
-Dispo [ici](https://github.com/randorisec/articles/blob/master/MISC79/easy.py)
+Dispo [ici](https://github.com/randorisec/articles/blob/master/MISC79_Mona/easy.py)
 
 ### Cheatsheet mona.py
 Toutes les commandes sont à préfixer de:
