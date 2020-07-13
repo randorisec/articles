@@ -1,5 +1,5 @@
 ## Biais cognitifs et organisationnels
-*Article publié dans le MISC HS20, libre de droits en juin 2020*
+L'article en [pdf](https://github.com/randorisec/articles/blob/master/MISCHS20_Biais/MISCHS20-Biais_cognitifs-Inti_Rossenbach.pdf)
 
 ### Auteur
 Inti Rossenbach
