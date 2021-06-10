@@ -1,5 +1,6 @@
 ## Contournement API Google Play
-*Article publié dans le MISC 106, libre de droits en juillet 2020*
+
+L'article en [pdf](https://github.com/randorisec/articles/blob/master/MISC106_Billing/misc106-Contournement-API-Google-Play-cc.pdf)
 
 ### Auteur
 Guillaume Lopes
