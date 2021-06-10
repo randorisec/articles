@@ -1,5 +1,7 @@
 ## Outils pour l'audit d'intrusion d'applications web
 
+L'article en [pdf](https://github.com/randorisec/articles/blob/master/GLMFHS97_Web/LMHS97-Outils-auditIntrusions-applicationsWeb.pdf)
+
 ### Auteur
 Guillaume Lopes et Davy Douhine
 
