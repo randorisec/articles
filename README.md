@@ -4,6 +4,10 @@ Nous écrivons régulièrement des articles pour les magazines MISC et Linux Mag
 
 Vous pouvez retrouver ici quelques uns des articles. Pour ceux dont nous ne pouvons pas récupérer les droits, vous retrouverez le synopsis et les liens et références figurant dans l'article.
 
+- [Sysdig et sécurité locale](https://github.com/randorisec/articles/tree/master/GLMF265_Sysdig) - l'article complet [ici](https://connect.ed-diamond.com/gnu-linux-magazine/glmf-265/sysdig-et-securite-locale)
+
+- [Le bourbier des dépendances : confusion et sabotage](https://github.com/randorisec/articles/tree/master/MISC123_Dépendances) - l'article complet [ici](https://connect.ed-diamond.com/misc/misc-123/le-bourbier-des-dependances-confusion-et-sabotage)
+
 - [Return Oriented Programming 101](https://github.com/randorisec/articles/tree/master/MISCHS22-ROP-101) - le [pdf](https://github.com/randorisec/articles/blob/master/MISCHS22-ROP-101/MISCHS22-ROP-101.pdf)
 
 - [Contournement de l'API Google Play](https://github.com/randorisec/articles/tree/master/MISC106_Billing) - le [pdf](https://github.com/randorisec/articles/blob/master/MISC106_Billing/misc106-Contournement-API-Google-Play-cc.pdf)
