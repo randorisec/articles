@@ -1,4 +1,4 @@
-## Sysdig et sécurité locale
+## Le bourbier des dépendances : confusion et sabotage
 L'article en complet [ici](https://connect.ed-diamond.com/misc/misc-123/le-bourbier-des-dependances-confusion-et-sabotage)
 
 ### Auteur
